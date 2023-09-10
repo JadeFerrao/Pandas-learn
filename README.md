@@ -34,7 +34,7 @@ bash `pip install pandas`
 **Data Aggregation and Grouping**: Learn how to perform data aggregation and grouping operations.  
 **Handling Missing Data**: Discover techniques for handling missing data in Pandas.  
 
-# Data Import and Export
+# Data Import/Export, Cleaning ,Exploration ,Manipulation ,Visulization
 
 **Reading and Writing Data**: Learn how to read data from various file formats (CSV, Excel, SQL) and write data back to these formats.  
 **Data Cleaning Techniques**: Explore common data cleaning tasks such as removing duplicates, handling outliers, and more.  
